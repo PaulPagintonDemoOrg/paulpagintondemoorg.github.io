@@ -29,4 +29,4 @@ These docs might help you achieving these objectives:
 - [Azure Monitor for Containers](https://docs.microsoft.com/azure/azure-monitor/insights/container-insights-overview)
 - [Prometheus](https://prometheus.io/)
 - [HPA](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
-- [Dynatrace for AKS](https://www.dynatrace.com/support/help/technology-support/cloud-platforms/kubernetes/azure-kubernetes-service/)
+
