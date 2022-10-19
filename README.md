@@ -24,11 +24,11 @@ The attendee squads are not alone in solving the challenges. Coaches work with e
 
 Here is the current list of What The Hack hackathons available in this repository:
 
-## Infrastructure
+## AKS
 
-####  Never Used Kubernetes or AKS Before
-#####  Start Here: Learn the basics of AKS and Kubernetes
-[Intro to Kubernetes on Azure](/https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/)
+*New to Kubernetes or AKS?*
+
+[Intro to Kubernetes on Azure](https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/)
 
 #### Start Hacking
 - [Intro To Kubernetes](/001-IntroToKubernetes/README.md)
