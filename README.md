@@ -10,7 +10,7 @@ If you are an organization that is interested in attending or hosting a What The
 ![What The Hack Website](/assets/images/wth-logo.png)
 <!-- {% endcomment %} -->
 
-# What is CB AKS Hack
+# What is CB AKS Hack?
 
 "CB AKS" is a set of challenge based hackathons focused on AKS that can be hosted in-person or virtually via Microsoft Teams.
 
@@ -25,6 +25,12 @@ The attendee squads are not alone in solving the challenges. Coaches work with e
 Here is the current list of What The Hack hackathons available in this repository:
 
 ## Infrastructure
+
+####  Never Used Kubernetes or AKS Before
+#####  Start Here: Learn the basics of AKS and Kubernetes
+[Intro to Kubernetes on Azure](/https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/)
+
+#### Start Hacking
 - [Intro To Kubernetes](/001-IntroToKubernetes/README.md)
 - [Advanced Kubernetes](/023-AdvancedKubernetes/README.md)
 - [AKS Enterprise-Grade](/039-AKSEnterpriseGrade/README.md)
