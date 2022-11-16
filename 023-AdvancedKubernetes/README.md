@@ -42,17 +42,17 @@ Before starting this hack you should have hands-on experience with the following
    1. Set up cluster autoscaling
    1. Set up pod autoscaling
    1. Define resource requests and limits
-1. [GitOps](./Student/05-gitops.md)
+1. [GitOps](./Student/05-gitops.md) - Optional
    1. Install flux
    1. Setup Flux Pipeline
    1. Simulate CI to verify changes pushed to AKS cluster 
    1. Update Github to deploy Ingress Controller via Flux
-1. [Service Mesh](./Student/06-service-mesh.md)
+1. [Service Mesh](./Student/06-service-mesh.md) - Optional
    1. Install a Service Mesh
    1. Apply a virtual service
    1. Apply weight-based routing
    1. Apply distributed tracing with Jaeger
-1. [Data Volumes](./Student/07-data-volumes.md)
+1. [Data Volumes](./Student/07-data-volumes.md) - Optional
    1. Static provisioning with Azure Disks
    1. Dynamic provisioning with Azure Disks
    1. Scaling persistent applications with Azure Disks
